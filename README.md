@@ -8,8 +8,8 @@ This project demonstrates forensic log analysis on Windows Security Event Logs t
 ## 1. Initial Log Inspection & Tool Pivoting
 The investigation began by reviewing raw security events using **Windows Event Viewer** to isolate failed logon events (Event ID 4625).
 
-![Windows Event Viewer Filtered Logs](<img width="1366" height="676" alt="SOC5" src="https://github.com/user-attachments/assets/7bc11ab2-c1ac-43d3-906c-600c58f79b12" />
-)
+![Windows Event Viewer Filtered Logs] <img width="1366" height="676" alt="SOC5" src="https://github.com/user-attachments/assets/7bc11ab2-c1ac-43d3-906c-600c58f79b12" />
+
 
 Legacy tools like Microsoft `LogParser.exe` often encounter syntax and parsing issues with modern `.evtx` binary formats.
 
