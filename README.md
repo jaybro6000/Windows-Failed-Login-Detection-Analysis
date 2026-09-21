@@ -13,7 +13,8 @@ The investigation began by reviewing raw security events using **Windows Event V
 
 Legacy tools like Microsoft `LogParser.exe` often encounter syntax and parsing issues with modern `.evtx` binary formats.
 
-![Legacy LogParser Syntax Testing] <img width="1366" height="768" alt="SOC4" src="https://github.com/user-attachments/assets/9fd8e3a9-08f0-41b2-bd39-ecbe61fa44bb" />
+![Legacy LogParser Syntax Testing] <img width="1366" height="719" alt="SOC4" src="https://github.com/user-attachments/assets/88fbbc96-55ac-422a-ac56-51ba0e88030d" />
+
 
 
 ---
